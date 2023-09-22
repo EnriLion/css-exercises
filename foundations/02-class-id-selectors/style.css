@@ -1,0 +1,20 @@
+.number-three,
+.number-five,
+.number-one {
+    background-color: rgb(238, 153, 168);
+}
+
+.number-three {
+    font-size: 25px;
+}
+
+#number-two {
+    font-size: 34px;
+    color: blue;
+}
+
+#number-for {
+    font-size: 22px;
+    font-weight: bold;
+    background-color: rgb(107, 239, 107);
+}
