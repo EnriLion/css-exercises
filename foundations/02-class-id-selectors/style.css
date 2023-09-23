@@ -1,20 +1,21 @@
 .number-three,
 .number-five,
 .number-one {
-    background-color: rgb(238, 153, 168);
-}
-
-.number-three {
-    font-size: 25px;
+    background-color: rgb(240, 183, 194);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
 }
 
 #number-two {
-    font-size: 34px;
+    font-size: 36px;
     color: blue;
 }
 
+.number-three {
+    font-size: 36px;
+}
+
 #number-for {
-    font-size: 22px;
+    font-size: 24px;
     font-weight: bold;
-    background-color: rgb(107, 239, 107);
+    background-color: #6ff163; 
 }
